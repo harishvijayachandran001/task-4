@@ -1,2 +1,5 @@
 "# DevOps Task 4 - Git Version Control" 
 "Added development changes" 
+"## Branches Used: main, dev, feature/one" 
+"## Description: Git branching, merging, tagging using CLI" 
+"## Tags: v1.0 created after merging to main" 
